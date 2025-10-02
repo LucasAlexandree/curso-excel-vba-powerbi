@@ -16,7 +16,8 @@ Aprender e aplicar conceitos de:
 - Construção de relatórios e dashboards no **Power BI**
 
 ## ✨ Status
-📚 Curso em andamento. Atualizando repositório conforme avanço nas aulas.
+📚 Curso em andamento pela Udemy. Atualizando repositório conforme avanço nas aulas.
+
 
 ---
 📌 Autor: [Lucas Alexandre](https://github.com/LucasAlexandree)
